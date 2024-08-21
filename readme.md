@@ -3,7 +3,7 @@
 * Keyboard Maintainer: [sdk66](https://github.com/sdk66)
 * Hardware Supported: KIIBOOM LOOP 75
 * Hardware Availability: [KIIBOOM](https://www.KIIBOOM.com)
-*Note: this is the wired code for KiiBOOM Loop75. The wireless code is waiting to be updated and checked by the QMK team. Don't use it to flash your keyboard unless you've consulted. 
+* Note: this is the wired code for KiiBOOM Loop75. The wireless code is waiting to be updated and checked by the QMK team. Don't use it to flash your keyboard unless you've consulted. 
 
 Make example for this keyboard (after setting up your build environment):
 
